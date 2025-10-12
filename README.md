@@ -38,8 +38,8 @@ Este repositório apresenta soluções para quatro problemas do LeetCode, organi
 
 
 #### C\#
-- 621. Task Scheduler
-![621. Task Scheduler](./assets/Task.png)
+- Task Scheduler
+![Task Scheduler](./assets/Task.png)
 
 - Implement Trie (Prefix Tree)
 ![Implement Trie (Prefix Tree)](./assets/Trie.png)
