@@ -14,28 +14,22 @@
 Este repositório apresenta soluções para quatro problemas do LeetCode, organizadas por linguagem e nível de dificuldade:
 
 ### C++
-- [Question](https://leetcode.com/) **(Medium)**
-
-- [Question](https://leetcode.com/) **(Hard)**
+- [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) **(Hard)**
 
 ---
 
 ### C\#
 - [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) **(Medium)**
 
-- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) **(Hard)**
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) **(Medium)**
 ## Screenshots
 
 ### Visualização 
 
 #### C++
 
-- Question
-![Question](-)
-
-- Question
-![Maximize Spanning Tree Stability with Upgrades](-)
-
+- Meeting Rooms III
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/32a9713f-6ef3-4041-bc8c-06f0511877da" />
 
 #### C\#
 - Task Scheduler
@@ -66,20 +60,12 @@ Os comandos a seguir devem ser executados a partir da raiz do repositório clona
 
 #### Executando as Soluções
 
-#### **Questão **
+#### **2402. Meeting Rooms III **
 
 Para compilar e executar a validação desta questão, utilize o makefile ou utilize o comando a seguir:
 
 ```bash
-g++ ./solutions/cpp/question.cpp -o ./out.o && ./out.o && rm ./out.o
-```
-
-#### **Questão **
-
-Para compilar e executar a validação desta questão, utilize o comando:
-
-```bash
-g++ ./solutions/cpp/question.cpp -o ./out.o && ./out.o && rm ./out.o
+g++ ./solutions/cpp/2402MeetingRoomsIII.cpp -o ./out.o && ./out.o && rm ./out.o
 ```
 
 ### 3. Compilar e executar soluções C#
@@ -107,7 +93,7 @@ dotnet run --project solutions/csharp/ImplementTrie
 
 ## Apresentação
 
-Vídeo disponível em: [Apresentação D16](https://youtu.be/)
+Vídeo disponível em: [Apresentação D16](https://youtu.be/bw2M1rb9YLU)
 
 ## Outros
 
